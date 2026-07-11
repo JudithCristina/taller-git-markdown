@@ -94,3 +94,6 @@ Modifica este archivo y practica:
 2. Agrega una lista con tus tecnologías favoritas
 3. Agrega un link a tu LinkedIn
 4. Agrega una tabla con tus proyectos
+4. Agrega una tabla con tus proyectos
+4. Agrega una tabla con tus proyectos
+4. Agrega una tabla con tus proyectos
