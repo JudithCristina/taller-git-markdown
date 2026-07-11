@@ -1,4 +1,4 @@
-# Tutorial de Markdown 2026
+# Tutorial de crear Issues - Kevin Mendoza
 
 Markdown es un lenguaje simple para darle formato a texto plano.
 Lo usamos en GitHub para escribir el README de nuestros proyectos.
@@ -16,6 +16,8 @@ Lo usamos en GitHub para escribir el README de nuestros proyectos.
 ## Texto
 
 Esto es un párrafo normal.
+
+Este texto se agrego para subir cambios.
 
 **Texto en negrita**
 
@@ -51,7 +53,7 @@ Lista de tareas:
 
 ## Imágenes
 
-![Texto alternativo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggy7Sl9NyWkAvGGF2cT1ziQCBlebx-_J2XUtWIVrEMd9rNzQxAxNb6qOO&s=10)
 
 ---
 
@@ -94,3 +96,4 @@ Modifica este archivo y practica:
 2. Agrega una lista con tus tecnologías favoritas
 3. Agrega un link a tu LinkedIn
 4. Agrega una tabla con tus proyectos
+
