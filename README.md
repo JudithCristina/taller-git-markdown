@@ -53,7 +53,7 @@ Lista de tareas:
 
 ## Imágenes
 
-![Texto alternativo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggy7Sl9NyWkAvGGF2cT1ziQCBlebx-_J2XUtWIVrEMd9rNzQxAxNb6qOO&s=10)
 
 ---
 
