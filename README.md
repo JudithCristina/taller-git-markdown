@@ -17,6 +17,8 @@ Lo usamos en GitHub para escribir el README de nuestros proyectos.
 
 Esto es un párrafo normal.
 
+Este texto se agrego para subir cambios.
+
 **Texto en negrita**
 
 *Texto en cursiva*
@@ -51,7 +53,7 @@ Lista de tareas:
 
 ## Imágenes
 
-![Texto alternativo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggy7Sl9NyWkAvGGF2cT1ziQCBlebx-_J2XUtWIVrEMd9rNzQxAxNb6qOO&s=10)
 
 ---
 
